@@ -1,4 +1,4 @@
--
+-say hi to my friends
 - I love crypto
 - 👋 Hi, I’m @podz19
 - 👀 I’m interested in ...
